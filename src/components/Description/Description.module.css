@@ -1,0 +1,68 @@
+
+
+.shipmentDetails {
+
+    background: #1B1D22;
+    width: 80%;
+    color: white;
+}
+
+.shipmentTitle {
+    margin-bottom: 30px;
+}
+
+.shipmentTitleName {
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 74px;
+}
+
+.shipmentTitleEmail {
+    color: white;
+}
+
+.shipmentBoxes {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.shipmentBoxesLabel {
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.shipmentBoxesInput {
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 320px;
+    height: 50px;
+    outline: none;
+    border: none;
+    padding: 13px 40px 13px 20px;
+
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.shipmentResult {
+    display: flex;
+    flex-direction: column;
+}
+
+.shipmentResultText {
+    font-size: 34px;
+    line-height: 44px;
+    color: white;
+
+}
+
+.shipmentResultValue {
+    font-size: 56px;
+    line-height: 66px;
+}

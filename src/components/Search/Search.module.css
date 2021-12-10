@@ -1,0 +1,12 @@
+.content {
+    color: black;
+    position: absolute;
+    background: white;
+    width: 320px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.wrapper {
+    padding: 5px;
+}

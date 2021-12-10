@@ -1,0 +1,13 @@
+.content {
+    width: auto;
+    background: #1B1D22;
+    align-items: center;
+    display: flex;
+    padding: 30px 30px;
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: left;
+}

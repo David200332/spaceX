@@ -1,0 +1,30 @@
+h2, p, ul {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 20%;
+    background: #1B1D22;
+    height: 100%;
+    color: white;
+}
+
+.wrapper {
+    margin: 0 30px;
+}
+
+
+.shipmentTitle {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 38px;
+    color: white;
+}
+
+.shipmentList {
+    width: 100%;
+    text-decoration: none;
+    list-style-type: none;
+}
